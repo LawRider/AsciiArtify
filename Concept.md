@@ -109,7 +109,7 @@
 | Мінімальний об'єм пам'яті         |                2GB                |          8GB          |        512MB        |
 
 ## Демонстрація
-![k3d](/AsciiArtify/k3d.gif)
+![alt-text](https://github.com/LawRider/AsciiArtify/blob/main/k3d.gif)
 
 ## Висновок
 
